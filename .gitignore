@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+.DS_Store
+week01_embeddings/homework/cc.ru.300.vec
+week01_embeddings/homework/cc.uk.300.vec
