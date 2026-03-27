@@ -39,6 +39,9 @@
 | 04   | Transfer Learning               | Fine-tuning BERT, embeddings                                   |
 | 05   | Large Language Models           | GPT2 and masked self attention implementation                  |
 | 06   | Prompting & In-Context Learning | Prompt engineering, few-shot / zero-shot, chain-of-thought     |
+| 07   | Transfer Learning               | RLHF                                                           |
+| 08   | Efficiency                      | Speculative Decoding, Quantization, GPTQ, QUIK                 |
+| 09   | RAG                             | Retriever Model, Question Answering                            |
 
 
 ## Что здесь важно
