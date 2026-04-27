@@ -42,6 +42,8 @@
 | 07   | Transfer Learning               | RLHF                                                           |
 | 08   | Efficiency                      | Speculative Decoding, Quantization, GPTQ, QUIK                 |
 | 09   | RAG                             | Retriever Model, Question Answering                            |
+| 10   | AI Agents                       | MCP, React-Agent, Multi-Agent systems                          |
+| 11   | Interpretability                | Activation Patching, Feature Steering Sentiment Steering, Sparse Autoencoder |
 
 
 ## Что здесь важно
